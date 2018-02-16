@@ -1,0 +1,55 @@
+[
+  {
+    "id": "1",
+    "task": "Pick up milk",
+    "completed": true
+  },
+
+  {
+    "id": "2",
+    "task": "Go to the gym",
+    "completed": false
+  },
+
+  {
+    "id": "3",
+    "task": "Take car to the mechanic",
+    "completed": false
+  },
+
+  {
+    "id": "4",
+    "task": "Visit mom",
+    "completed": false
+  },
+
+  {
+    "id": "5",
+    "task": "Study for math class",
+    "completed": true
+  },
+
+  {
+    "id": "6",
+    "task": "Complete React assignment",
+    "completed": false
+  },
+
+  {
+    "id": "7",
+    "task": "Buy birthday present",
+    "completed": false
+  },
+
+  {
+    "id": "8",
+    "task": "Plan vacation",
+    "completed": false
+  },
+
+  {
+    "id": "9",
+    "task": "Have breakfast",
+    "completed": true
+  },
+]

@@ -1,0 +1,31 @@
+body {
+	background-color:#E86A39;
+	margin: 0;
+  	padding: 0;
+  	font-family: Lato;
+}
+
+.addButton {
+	color:black;
+	margin: 3px;
+	/*padding:4px;*/
+	position: relative;
+	bottom: 1.5px;
+	border: 1px solid;
+
+}
+
+.removeButton {
+	margin: 3px;
+	/*padding: 4px;*/
+}
+
+.formInput {
+	padding:3px;
+
+}
+
+.header-text {
+	position:relative;
+	top:25px;
+}
